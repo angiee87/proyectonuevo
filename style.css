@@ -157,6 +157,7 @@ transform: scale(1.3);
 }
 .iconosInstagram a{
     padding: 10px;
+    color: purple;
 }
 .iconosInstagram{
     display: flex;
